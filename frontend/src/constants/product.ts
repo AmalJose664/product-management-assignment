@@ -1,0 +1,1 @@
+export const availableCategories = ["electronics", "clothing", "groceries", "beauty", "home", "sports", "books", "toys"] as const
